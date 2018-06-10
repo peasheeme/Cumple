@@ -209,8 +209,9 @@ footer{
 }
 
 .centrado {
-	border-left-style: dashed; 
-	border-right-style: dashed;
+	border-top-style: dashed; 
+	border-bottom-style: dashed;
+	
 }
 .cel {
 	margin-top: 50px;
